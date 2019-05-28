@@ -1,0 +1,10 @@
+Actuator	KEYWORD1
+AbsoluteActuator	KEYWORD1
+Button	KEYWORD1
+seek	KEYWORD2
+write	KEYWORD2
+setTunings	KEYWORD2
+setOutputInverted	KEYWORD2
+read	KEYWORD2
+wasPressed	KEYWORD2
+wasReleased	KEYWORD2
